@@ -1,0 +1,1 @@
+# Soil_Detection_And_Crop_Recommendation
