@@ -1,1 +1,17 @@
-# Soil_Detection_And_Crop_Recommendation
+'# Soil-Type-Classification for Crops Suggestion 🌳🌲🎄🎋🌴\n",
+    "<br>Problem Statement: Classifying the type of the Soil from Input Image.\n",
+    "# Model deployed as Web-Application API at:🎯🔗📳  <br>\n",
+    "https://soilnet.herokuapp.com/\n",
+    "\n",
+    "# GitHub Repo <br>\n",
+    "https://github.com/OMIII1997/Soil-Type-Classification \n",
+    "\n",
+    "# Dataset available at: 📚📓🗞💾 <br>\n",
+    "https://www.kaggle.com/omkargurav/soil-classification-image-data\n",
+    "<br>\n",
+    "\n",
+    "\n",
+    "For this project a deep learning model is trained with 903 images of four different types soil. \"Alluvial\", \"Black\", \"Clay\" , \"Red\". All images are collected from Google Search Engine  and crafted and filtered. \n",
+    "<br>\n",
+    "\n",
+    "Based on the type of the Soil Crops will be suggested. Model is deployed on Heroku Platform\n"
